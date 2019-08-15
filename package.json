@@ -1,0 +1,17 @@
+{
+  "name": "write1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "eosjs-ecc": "^4.0.4",
+    "hdkey": "^1.1.1",
+    "typescript": "^3.5.3"
+  }
+}
