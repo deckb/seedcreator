@@ -1,3 +1,3 @@
 npm install  
-npx tsc -w (in once console)  
+npx tsc -w (in one console)  
 node .\dist\index.js
